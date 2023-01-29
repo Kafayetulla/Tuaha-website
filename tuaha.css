@@ -28,8 +28,28 @@ border-radius: 10px;
     display: flex;
 }
 .Dream-big{
-    background-image: url(img.jpg);
+    
+    
     background-repeat: no-repeat;
     background-position: right;
     margin: 0%;
+}
+.Exprement{
+    display: flex;
+}
+.external{
+    box-shadow: 10px 10px 10px 10px gray;
+    width: 80%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+}
+#Full-webdeveloper{
+    border-left: 7px solid orange;
+}
+#Babay-webdevelopment{
+    border-left: 7px solid blue;
+}
+footer p{
+    text-align: center;
 }
