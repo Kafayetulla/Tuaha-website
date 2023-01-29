@@ -24,3 +24,12 @@ border-radius: 10px;
     background-image: url(insta.png);
     background-repeat: no-repeat;
 }
+.dream-big{
+    display: flex;
+}
+.Dream-big{
+    background-image: url(img.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: 0%;
+}
